@@ -10,3 +10,11 @@ zona1={"largo":500,"ancho":150}
 zona2={"largo":309,"ancho":480}  
 zona3={"largo":480,"ancho":101}  
 zona4={"largo":90,"ancho":220} 
+
+# Empleo de una lista que permite guardar las zonas  
+zonas = []  
+zonas.append(zona1)  
+zonas.append(zona2)  
+zonas.append(zona3)  
+zonas.append(zona4) 
+
